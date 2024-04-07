@@ -192,7 +192,7 @@
             <p rend="indent">Am nächsten Tag <rs type="person" xml:id="pNt_94470">
                   <forename>Hermines</forename>
                </rs> Liebenswürdigkeit.</p>
-            <p rend="indent">― <rs type="person" xml:id="pNt_94471">
+            <p rend="indent">― <rs type="person" xml:id="pNt_94471" ref="#person_14740">
                   <forename>Emilie</forename>
                </rs> ― <rs type="person" xml:id="pNt_94472">
                   <forename>Adolf</forename>
